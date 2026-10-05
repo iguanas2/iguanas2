@@ -1,4 +1,4 @@
-## Olá, Me me chamo Vinícius Passacantili e sou desenvolvedor e entusiasta de tecnologia.  
+## Olá, Me chamo Vinícius Passacantili e sou desenvolvedor e entusiasta de tecnologia.  
 
 [![iguanas2's GitHub stats](https://github-stats-extended.vercel.app/api?username=iguanas2)](https://github.com/stats-organization/github-stats-extended)
 <div style="display: inline_block"><br>
