@@ -2,7 +2,7 @@
 
 [![iguanas2's GitHub stats](https://github-stats-extended.vercel.app/api?username=iguanas2)](https://github.com/stats-organization/github-stats-extended)
 <div style="display: inline_block"><br>
-<h2>Conhecimentos atuais || Current knowledge</h2>
+<h2>Conhecimentos atuais</h2>
   
   <h3>Front-end/Mobile:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
