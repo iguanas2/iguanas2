@@ -1,6 +1,6 @@
 ## Olá, Me chamo Vinícius Passacantili e sou desenvolvedor e entusiasta de tecnologia.  
 
-[![iguanas2's GitHub stats](https://github-stats-extended.vercel.app/api?username=iguanas2)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=iguanas2&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=iguanas2&layout=compact&langs_count=4&theme=dark)
 <div style="display: inline_block"><br>
 <h2>Conhecimentos atuais</h2>
   
